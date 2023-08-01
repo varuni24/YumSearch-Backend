@@ -1,2 +1,2 @@
-# recipe-website-backend
- Backend for recipe website
+# YumSearch-backend
+ Backend for YumSearch website
